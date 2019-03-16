@@ -1,5 +1,6 @@
 # CIE555---Deep-Learning-and-Neural-Networks
-This repo contains all my work for Deep Learning and Neural Networks class in Sprin 2019.
+This repo contains all my work for Deep Learning and Neural Networks class in Spring 2019.
+Please note that the repo gets updated every week...
 The assignments were implemetned using the following techologies:
 * Python
 * Numpy
