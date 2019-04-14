@@ -15,19 +15,29 @@ The assignments were implemetned using the following techologies:
 ## Table of content
 1. [Model Validation](#Model-Validation)
 2. [TensorFlow](#TensorFlow)
-1. [Pytorch](#Pytorch)
-2. [Keras Eager Execution](#Keras-Eager-Execution)
-1. [Keras Optimization Techniques](#Keras-Optimization-Techniques)
+3. [Pytorch](#Pytorch)
+4. [Keras Eager Execution](#Keras-Eager-Execution)
+5. [Keras Optimization Techniques](#Keras-Optimization-Techniques)
+6. [DenseNet Architecture](#DenseNet-Architecture)
+7. [RNN Time Series Predicting Stock Prices](#RNN-Time-Series-Predicting-Stock-Prices)
+8. [RNN on IMDB and GloVe pretrained weights Rating System](#RNN-on-IMDB-and-GloVe-pretrained-weights-Rating-System)
 
 
 ## Model Validation
-In this lab, numpy and pandas were explored in details. Also, forward propagation and backward propagation were implemented from scratch and used on Iris dataset.
+In this project, numpy and pandas were explored in details. Also, forward propagation and backward propagation were implemented from scratch and used on Iris dataset.
 ## TensorFlow
-In this lab, tensorflow modules were used to train a shallow neural network on both Iris dataset, and Boston dataset for classification and regression. 
+In this project, tensorflow modules were used to train a shallow neural network on both Iris dataset, and Boston dataset for classification and regression. 
 ## Pytorch
-In this lab, Pytorch was explored in details. Moreover, a 2-layer neural network was trained on Iris dataset using Pytorch modules.
+In this project, Pytorch was explored in details. Moreover, a 2-layer neural network was trained on Iris dataset using Pytorch modules.
 ## Keras Eager Execution
-In this lab, Keras Eager Execution was used on Breast Cancer dataset by training a 3-layers neural networks.
+In this project, Keras Eager Execution was used on Breast Cancer dataset by training a 3-layers neural networks.
 ## Keras Optimization Techniques
-In this lab, Keras modules were used on MNIST dataset **withouth CNN** to train a shallow neural networks using different optimizers (RMSProp, Adam,SGD).
+In this project, Keras modules were used on MNIST dataset **withouth CNN** to train a shallow neural networks using different optimizers (RMSProp, Adam,SGD).
+## DenseNet Architecture
+In this project, DenseNet101 Architecture was implemented and defined completely.
 
+## RNN Time Series Predicting Stock Prices
+In this project, RNN model was developed to predict to the stock market prices for the next week with accuracy of 90%.
+
+## RNN on IMDB and GloVe pretrained weights Rating System
+In this project, RNN model was developed to rate the review based on word embedding. The model was first randomly initialized, then GloVe pre-trained weights were used to boost the accuracy up to 92%.
